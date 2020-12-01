@@ -8,7 +8,7 @@
       <p><b>地址：江苏省苏州市工业园区悬珠花园 
          </td>        
          <td width="25%">
-      <img src="/OIP.jpg" width="100%">      % 
+      <img src="/OIP.jpg" width="100%">       
     </td>
   </tr>
 </table>
